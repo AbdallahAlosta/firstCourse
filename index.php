@@ -7,7 +7,7 @@
     <body>
         <?php
         include './CALC.php';
-        $result = addNumber(5, 2);
+        $result = addNumber(800, 2);
         echo "$result";
         ?>
     </body>
